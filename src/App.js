@@ -1,23 +1,11 @@
 import { StatusBar } from 'expo-status-bar'
 import React from 'react'
-import { Text } from 'react-native'
+import { View } from 'react-native'
+//export default são chamados como abaixo, 'Primeiro' sem chaves
+import Primeiro from './componentes/primeiro'
 
-//diferentes maneiras de declarar funções
-//function Tela() {
-//    return <Text>Primeiro Componente</Text>
-//}
-const Tela = function () {
-    return <Text>Primeiro Componente</Text>
-}
-
-export default Tela
-//exportando a função direto
-//export default function () {
-//    return <Text>Primeiro Componente</Text>
-//}
-//arrow function
-//export default () => {
-//    return <Text>Primeiro Componente</Text>
-//}
-//simplificada
-//export default () => <Text>Primeiro Componente</Text>
+export default () => (
+    <View>
+        <Primeiro />
+    </View>
+)
