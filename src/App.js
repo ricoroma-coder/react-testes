@@ -1,6 +1,6 @@
 import { StatusBar } from 'expo-status-bar'
 import React from 'react'
-import { View } from 'react-native'
+import { View, StyleSheet } from 'react-native'
 //export default são chamados como abaixo, 'Primeiro' sem chaves
 import Primeiro from './componentes/primeiro'
 //export sem default são chamados com chaves
@@ -9,10 +9,19 @@ import Primeiro from './componentes/primeiro'
 import Comp0, { Comp1, Comp2 } from './componentes/Multi'
 
 export default () => (
-    <View>
+    <View style={style.App}>
         <Primeiro />
         <Comp0 />
         <Comp1 />
         <Comp2 />
     </View>
 )
+
+const style = StyleSheet.create({
+    App: {
+        backgroundColor: '#FFF',
+        flex: 1,
+        justifyContent: 'center', //eixo principal
+        alignItems: 'center' //eixo secundário
+    },
+})

@@ -1,8 +1,9 @@
 import React from 'react'
 import { Text } from 'react-native'
+import Estilo from '../estilo'
 
 export default function Comp() {
-    return <Text>Componente #Oficial</Text>
+    return <Text style={Estilo.t0}>Componente #Oficial</Text>
 }
 
 //export function Comp1() {
