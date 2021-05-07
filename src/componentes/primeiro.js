@@ -7,7 +7,11 @@ import { Text } from 'react-native'
 //    return <Text>Primeiro Componente</Text>
 //}
 const Tela = function () {
-    return <Text>Primeiro Componente</Text>
+    //yellow box aparece na tela
+    //console.warn('Debugando')
+    return (
+        <Text>Primeiro Componente</Text>
+    )
 }
 
 export default Tela

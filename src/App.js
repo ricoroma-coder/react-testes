@@ -8,20 +8,30 @@ import Primeiro from './componentes/primeiro'
 //quando o export é sem default, o nome deve ser igual a função do arquivo que importamos, como é o caso de Comp1 e Comp2
 import Comp0, { Comp1, Comp2 } from './componentes/Multi'
 
+import Aleatorio from './componentes/Aleatorio'
+
+import MinMax from './componentes/MinMax'
+
 export default () => (
     <View style={style.App}>
-        <Primeiro />
+        {/*<Primeiro />
         <Comp0 />
         <Comp1 />
         <Comp2 />
+        <MinMax min="3" max="20"/>
+        <MinMax min={3} max={20}/>*/}
+        <Aleatorio min={2} max={100} />
+        <Aleatorio min={2} max={100} />
+        <Aleatorio min={2} max={100} />
+        <Aleatorio min={2} max={100} />
     </View>
 )
 
 const style = StyleSheet.create({
     App: {
-        backgroundColor: '#FFF',
         flex: 1,
         justifyContent: 'center', //eixo principal
-        alignItems: 'center' //eixo secundário
+        alignItems: 'center', //eixo secundário
+        padding: 20,
     },
 })
