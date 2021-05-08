@@ -13,7 +13,8 @@ import Estilo from '../estilo'
 
 export default ({ min, max }) => {
     const delta =  (max - min) + 1
-    const numero = parseInt(Math.random() * delta) + min
+    let numero = parseInt(Math.random() * delta) + min
+    //setTimeout(() => numero = parseInt(Math.random() * delta) + min, 2000)
     return (
         <Text style={Estilo.t0}>Número gerado: {numero}</Text>
     )
