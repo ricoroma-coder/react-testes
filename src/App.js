@@ -14,6 +14,8 @@ import MinMax from './componentes/MinMax'
 
 import Titulo from './componentes/Titulo'
 
+import Botao from './componentes/Botao'
+
 export default () => (
     <View style={style.App}>
         {/*<Primeiro />
@@ -25,8 +27,9 @@ export default () => (
         <Aleatorio min={2} max={100} />
         <Aleatorio min={2} max={100} />
         <Aleatorio min={2} max={100} />
-        <Aleatorio min={2} max={100} />*/}
-        <Titulo principal="Cadastro" secundario="Tela de cadastro"/>
+        <Aleatorio min={2} max={100} />
+        <Titulo principal="Cadastro" secundario="Tela de cadastro"/>*/}
+        <Botao />
     </View>
 )
 
