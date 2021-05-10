@@ -23,6 +23,8 @@ import Pai2 from './componentes/indireta/Pai'
 
 import ContadorV2 from './componentes/contador2/ContadorV2'
 
+import Diferenciar from './componentes/Diferenciar'
+
 export default () => (
     <View style={style.App}>
         {/*<Primeiro />
@@ -38,8 +40,9 @@ export default () => (
         <Titulo principal="Cadastro" secundario="Tela de cadastro"/>
         <Botao />
         <Contador inicial={100} passo={13} />
-        <Pai2 />*/}
-        <ContadorV2 />
+        <Pai2 />
+        <ContadorV2 />*/}
+        <Diferenciar />
     </View>
 )
 
