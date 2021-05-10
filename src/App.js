@@ -19,6 +19,7 @@ import Botao from './componentes/Botao'
 import Contador from './componentes/Contador'
 
 import Pai from './componentes/direta/Pai'
+import Pai2 from './componentes/indireta/Pai'
 
 export default () => (
     <View style={style.App}>
@@ -35,7 +36,7 @@ export default () => (
         <Titulo principal="Cadastro" secundario="Tela de cadastro"/>
         <Botao />
         <Contador inicial={100} passo={13} />*/}
-        <Pai />
+        <Pai2 />
     </View>
 )
 
