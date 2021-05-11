@@ -32,6 +32,8 @@ import Membro from './componentes/relacao/Filho'
 
 import UsuarioLogado from './componentes/UsuarioLogado'
 
+import ListaProdutos from './componentes/produtos/ListaProdutos'
+
 export default () => (
     <SafeAreaView style={style.App}>
         {/*<Primeiro />
@@ -59,12 +61,13 @@ export default () => (
         <Familia>
             <Membro nome="Ana" sobrenome="Silva" />
             <Membro nome="Julia" sobrenome="Silva" />
-        </Familia>*/}
+        </Familia>
         <UsuarioLogado usuario={{nome:'Gui',email:'gui@gui.com'}} />
         <UsuarioLogado usuario={{nome:'Carlos'}} />
         <UsuarioLogado usuario={{email:'ana@ana.com'}} />
         <UsuarioLogado usuario={null} />
-        <UsuarioLogado />
+        <UsuarioLogado />*/}
+        <ListaProdutos />
     </SafeAreaView>
 )
 
