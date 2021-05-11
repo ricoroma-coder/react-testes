@@ -1,6 +1,6 @@
 import { StatusBar } from 'expo-status-bar'
 import React from 'react'
-import { View, StyleSheet } from 'react-native'
+import { SafeAreaView, StyleSheet } from 'react-native'
 //export default são chamados como abaixo, 'Primeiro' sem chaves
 import Primeiro from './componentes/primeiro'
 //export sem default são chamados com chaves
@@ -25,8 +25,10 @@ import ContadorV2 from './componentes/contador2/ContadorV2'
 
 import Diferenciar from './componentes/Diferenciar'
 
+import ParImpar from './componentes/ParImpar'
+
 export default () => (
-    <View style={style.App}>
+    <SafeAreaView style={style.App}>
         {/*<Primeiro />
         <Comp0 />
         <Comp1 />
@@ -41,9 +43,10 @@ export default () => (
         <Botao />
         <Contador inicial={100} passo={13} />
         <Pai2 />
-        <ContadorV2 />*/}
-        <Diferenciar />
-    </View>
+        <ContadorV2 />
+        <Diferenciar />*/}
+        <ParImpar num={3} />
+    </SafeAreaView>
 )
 
 const style = StyleSheet.create({
