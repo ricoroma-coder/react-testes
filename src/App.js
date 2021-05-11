@@ -27,6 +27,9 @@ import Diferenciar from './componentes/Diferenciar'
 
 import ParImpar from './componentes/ParImpar'
 
+import Familia from './componentes/relacao/Pai'
+import Membro from './componentes/relacao/Filho'
+
 export default () => (
     <SafeAreaView style={style.App}>
         {/*<Primeiro />
@@ -44,8 +47,17 @@ export default () => (
         <Contador inicial={100} passo={13} />
         <Pai2 />
         <ContadorV2 />
-        <Diferenciar />*/}
-        <ParImpar num={3} />
+        <Diferenciar />
+        <ParImpar num={3} />*/}
+        <Familia>
+            <Membro nome="Bia" sobrenome="Arruda" />
+            <Membro nome="Carlos" sobrenome="Arruda" />
+        </Familia>
+
+        <Familia>
+            <Membro nome="Ana" sobrenome="Silva" />
+            <Membro nome="Julia" sobrenome="Silva" />
+        </Familia>
     </SafeAreaView>
 )
 
