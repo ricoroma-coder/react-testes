@@ -30,6 +30,8 @@ import ParImpar from './componentes/ParImpar'
 import Familia from './componentes/relacao/Pai'
 import Membro from './componentes/relacao/Filho'
 
+import UsuarioLogado from './componentes/UsuarioLogado'
+
 export default () => (
     <SafeAreaView style={style.App}>
         {/*<Primeiro />
@@ -48,7 +50,7 @@ export default () => (
         <Pai2 />
         <ContadorV2 />
         <Diferenciar />
-        <ParImpar num={3} />*/}
+        <ParImpar num={3} />
         <Familia>
             <Membro nome="Bia" sobrenome="Arruda" />
             <Membro nome="Carlos" sobrenome="Arruda" />
@@ -57,7 +59,12 @@ export default () => (
         <Familia>
             <Membro nome="Ana" sobrenome="Silva" />
             <Membro nome="Julia" sobrenome="Silva" />
-        </Familia>
+        </Familia>*/}
+        <UsuarioLogado usuario={{nome:'Gui',email:'gui@gui.com'}} />
+        <UsuarioLogado usuario={{nome:'Carlos'}} />
+        <UsuarioLogado usuario={{email:'ana@ana.com'}} />
+        <UsuarioLogado usuario={null} />
+        <UsuarioLogado />
     </SafeAreaView>
 )
 
