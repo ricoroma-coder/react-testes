@@ -42,6 +42,8 @@ import FlexboxV2 from './componentes/layout/FlexboxV2'
 import FlexboxV3 from './componentes/layout/FlexboxV3'
 import FlexboxV4 from './componentes/layout/FlexboxV4'
 
+import Mega from './componentes/mega/Mega'
+
 export default () => (
     <SafeAreaView style={style.App}>
         {/*<Primeiro />
@@ -80,8 +82,9 @@ export default () => (
         <InputName />
         <FlexboxV1 />
         <FlexboxV2 />
-        <FlexboxV3 />*/}
-        <FlexboxV4 />
+        <FlexboxV3 />
+        <FlexboxV4 />*/}
+        <Mega />
     </SafeAreaView>
 )
 
