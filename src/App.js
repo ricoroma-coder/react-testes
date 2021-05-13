@@ -39,6 +39,7 @@ import InputName from './componentes/InputName'
 
 import FlexboxV1 from './componentes/layout/FlexboxV1'
 import FlexboxV2 from './componentes/layout/FlexboxV2'
+import FlexboxV3 from './componentes/layout/FlexboxV3'
 
 export default () => (
     <SafeAreaView style={style.App}>
@@ -76,8 +77,9 @@ export default () => (
         <ListaProdutos />
         <ListaProdutosV2 />
         <InputName />
-        <FlexboxV1 />*/}
-        <FlexboxV2 />
+        <FlexboxV1 />
+        <FlexboxV2 />*/}
+        <FlexboxV3 />
     </SafeAreaView>
 )
 
