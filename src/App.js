@@ -35,6 +35,8 @@ import UsuarioLogado from './componentes/UsuarioLogado'
 import ListaProdutos from './componentes/produtos/ListaProdutos'
 import ListaProdutosV2 from './componentes/produtos/ListaProdutosV2'
 
+import InputName from './componentes/InputName'
+
 export default () => (
     <SafeAreaView style={style.App}>
         {/*<Primeiro />
@@ -68,8 +70,9 @@ export default () => (
         <UsuarioLogado usuario={{email:'ana@ana.com'}} />
         <UsuarioLogado usuario={null} />
         <UsuarioLogado />
-        <ListaProdutos />*/}
-        <ListaProdutosV2 />
+        <ListaProdutos />
+        <ListaProdutosV2 />*/}
+        <InputName />
     </SafeAreaView>
 )
 
