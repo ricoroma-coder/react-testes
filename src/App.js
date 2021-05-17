@@ -84,7 +84,7 @@ export default () => (
         <FlexboxV2 />
         <FlexboxV3 />
         <FlexboxV4 />*/}
-        <Mega />
+        <Mega qtdeNumeros={7} />
     </SafeAreaView>
 )
 
