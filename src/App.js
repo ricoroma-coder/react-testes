@@ -1,6 +1,6 @@
 import { StatusBar } from 'expo-status-bar'
 import React from 'react'
-import { SafeAreaView, StyleSheet } from 'react-native'
+import { SafeAreaView, StyleSheet, Text } from 'react-native'
 //export default são chamados como abaixo, 'Primeiro' sem chaves
 import Primeiro from './componentes/primeiro'
 //export sem default são chamados com chaves
@@ -44,9 +44,19 @@ import FlexboxV4 from './componentes/layout/FlexboxV4'
 
 import Mega from './componentes/mega/Mega'
 
+import TextoCentral from './componentes/TextoCentral'
+import Tela1 from './componentes/Tela1'
+import Tela2 from './componentes/Tela2'
+import Tela3 from './componentes/Tela3'
+import Navegacao from './navegacao'
+
 export default () => (
-    <SafeAreaView style={style.App}>
-        {/*<Primeiro />
+    <SafeAreaView style={{flex:1}}>
+        <Navegacao />
+        {/*<Tela1 />
+        <Tela2 />
+        <Tela3 />
+        <Primeiro />
         <Comp0 />
         <Comp1 />
         <Comp2 />
@@ -83,8 +93,8 @@ export default () => (
         <FlexboxV1 />
         <FlexboxV2 />
         <FlexboxV3 />
-        <FlexboxV4 />*/}
-        <Mega qtdeNumeros={7} />
+        <FlexboxV4 />
+        <Mega qtdeNumeros={7} />*/}
     </SafeAreaView>
 )
 

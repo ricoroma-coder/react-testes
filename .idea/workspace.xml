@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4ffcac0-2a6a-4646-a4de-3b7d47749296" name="Default Changelist" comment="Componente baseado em classe: estilizando" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sB8X4FJk1a2TnNaxBFAjzmvNWB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../calculadora" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ricor\Documents\GITHUB\react-native\exercicios\src\componentes\layout" />
+      <recent name="C:\Users\ricor\Documents\GITHUB\react-native\exercicios\src\componentes\produtos" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4ffcac0-2a6a-4646-a4de-3b7d47749296" name="Default Changelist" comment="" />
+      <created>1620334658297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620334658297</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Criação do primeiro componente">
+      <created>1620336646636</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620336646636</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Estudando as diversas maneiras de declarar e exportar componentes">
+      <created>1620337239977</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620337239977</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Refatorando o primeiro elemento">
+      <created>1620337887796</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1620337887796</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Criando um arquivo multi elementos">
+      <created>1620338870223</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1620338870223</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Introdução ao estilo">
+      <created>1620390899663</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1620390899663</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Passando propriedades para os componentes">
+      <created>1620393096664</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1620393096664</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Criando fragmentos (Titulo.js)">
+      <created>1620508340368</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1620508340368</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Criando botões">
+      <created>1620509412197</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1620509412197</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Montando um contador simples">
+      <created>1620569989237</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1620569989237</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Comunicação direta">
+      <created>1620684281862</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1620684281862</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Comunicação indireta">
+      <created>1620685339296</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1620685339296</updated>
+    </task>
+    <task id="LOCAL-00012" summary="ContadorV2">
+      <created>1620687461727</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1620687461727</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Diferenciando sistemas operacionais">
+      <created>1620687968933</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1620687968933</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Renderização condicional #1">
+      <created>1620740184033</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1620740184033</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Acessando os filhos de um componente">
+      <created>1620740945491</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1620740945491</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Renderização condicional #2">
+      <created>1620741713379</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1620741713379</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Renderizando Lista #1">
+      <created>1620742894002</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1620742894002</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Renderizando Lista #2">
+      <created>1620743601013</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1620743601013</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Componente controlado e não controlado">
+      <created>1620926705716</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1620926705716</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Flexbox #1">
+      <created>1620928050921</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1620928050921</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Flexbox #2">
+      <created>1620928492107</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1620928492107</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Flexbox #3">
+      <created>1620929130691</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1620929130691</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Flexbox #4">
+      <created>1620929765879</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1620929765879</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Componente baseado em classe: criando o componente">
+      <created>1620930217822</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1620930217822</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Componente baseado em classe: criando e tratando states">
+      <created>1621288872222</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1621288872222</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Componente baseado em classe: gerando os números da Mega">
+      <created>1621290126285</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1621290126285</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Componente baseado em classe: estilizando">
+      <created>1621291222019</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1621291222019</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Refatorando o primeiro elemento" />
+    <MESSAGE value="Criando um arquivo multi elementos" />
+    <MESSAGE value="Introdução ao estilo" />
+    <MESSAGE value="Passando propriedades para os componentes" />
+    <MESSAGE value="Criando fragmentos (Titulo.js)" />
+    <MESSAGE value="Criando botões" />
+    <MESSAGE value="Montando um contador simples" />
+    <MESSAGE value="Comunicação direta" />
+    <MESSAGE value="Comunicação indireta" />
+    <MESSAGE value="ContadorV2" />
+    <MESSAGE value="Diferenciando sistemas operacionais" />
+    <MESSAGE value="Renderização condicional #1" />
+    <MESSAGE value="Acessando os filhos de um componente" />
+    <MESSAGE value="Renderização condicional #2" />
+    <MESSAGE value="Renderizando Lista #1" />
+    <MESSAGE value="Renderizando Lista #2" />
+    <MESSAGE value="Componente controlado e não controlado" />
+    <MESSAGE value="Flexbox #1" />
+    <MESSAGE value="Flexbox #2" />
+    <MESSAGE value="Flexbox #3" />
+    <MESSAGE value="Flexbox #4" />
+    <MESSAGE value="Componente baseado em classe: criando o componente" />
+    <MESSAGE value="Componente baseado em classe: criando e tratando states" />
+    <MESSAGE value="Componente baseado em classe: gerando os números da Mega" />
+    <MESSAGE value="Componente baseado em classe: estilizando" />
+    <option name="LAST_COMMIT_MESSAGE" value="Componente baseado em classe: estilizando" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620337360554">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="104" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1620337360554" />
+    <state x="121" y="122" key="FileChooserDialogImpl" timestamp="1621344039266">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="121" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1621344039266" />
+    <state x="202" y="18" width="916" height="710" key="SettingsEditor" timestamp="1620684486183">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="202" y="18" width="916" height="710" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1620684486183" />
+    <state x="0" y="84" key="Vcs.Push.Dialog.v2" timestamp="1621291224013">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="84" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1621291224013" />
+    <state x="-3" y="166" key="run.anything.popup" timestamp="1620509188111">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-3" y="166" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1620509188111" />
+    <state x="4" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1621291212974">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="4" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1621291212974" />
+  </component>
+</project>
